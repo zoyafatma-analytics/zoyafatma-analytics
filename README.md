@@ -40,7 +40,7 @@ I enjoy learning new analytical skills, exploring datasets, and creating visuali
 ## 📫 How to Reach Me
 
 - 📧 Email: zoyafatma15103@gmail.com
-- 🔗 LinkedIn: https://linkedin.com/zoyafatma
+- 🔗 LinkedIn: https://www.linkedin.com/in/zoyafatma/
 
 ---
 
