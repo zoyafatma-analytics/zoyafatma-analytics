@@ -27,26 +27,11 @@ I enjoy learning new analytical skills, exploring datasets, and creating visuali
 
 ---
 
-## 📌 Interests
-
-- Data Analytics
-- Business Insights
-- Dashboard Design
-- Storytelling with Data
-- Data Visualization
-
----
-
 ## 📫 How to Reach Me
 
 - 📧 Email: zoyafatma15103@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/zoyafatma/
 
----
-
-⭐ “Turning data into insights through analytics and visualization.”
-
-<!--
 **zoyafatma-analytics/zoyafatma-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
